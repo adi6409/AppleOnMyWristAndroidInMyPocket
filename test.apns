@@ -1,0 +1,10 @@
+{
+    "Simulator Target Bundle": "JS.personal.AppleMeetsAndroid",
+    "aps":{
+        "alert" : {
+           "title" : "Game Request",
+           "subtitle" : "Five Card Draw",
+           "body" : "Bob wants to play poker"
+        }
+    }
+}
